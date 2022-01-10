@@ -1,0 +1,17 @@
+  .rhombus-parent {
+    clip-path: inset(0% 0% 0% 0% round 75px);
+    transform: rotate(45deg);
+    background: url("assets/img/index_roses.jpg") center;
+    background-size: 100%;
+    height: 30em;
+    width: 30em;
+    transition: background-size, 500ms;
+  }
+
+  .rhombus-parent:hover {
+    background-size: 135%;
+  }
+
+  .h1 {
+    text-shadow: 5px 5px 10px rgba(255, 255, 255, 0.822);
+  }
