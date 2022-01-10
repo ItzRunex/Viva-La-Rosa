@@ -34,13 +34,26 @@ body {
 .h1 {
     font-family: 'Lobster Two', cursive;
     font-size: 6em;
-    color: #f7c4c0;
+    color: #fd8779;
 }
 
 .h2 {
     font-family: 'Lobster Two', cursive;
     font-size: 5em;
+    color: #f7c4c0;
+}
+
+.h3 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 3em;
     color: #fd8779;
+}
+
+.h1-p {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 1.5em;
+    color: #f8b1ac;
+    text-shadow: 5px 5px 10px rgba(255, 255, 255, 0.822);
 }
 
 .btn {
